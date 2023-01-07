@@ -147,3 +147,14 @@ color: #005FAC;
 border: 0;
 margin: 1px 900px 60px 65px;
 }
+
+/* future sections */
+.future-content{
+height: 577px;
+background: #151414;
+background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
